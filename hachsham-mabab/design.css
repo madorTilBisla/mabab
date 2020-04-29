@@ -27,7 +27,6 @@ body{
     font-family: VarelaRound;
     touch-action: manipulation;
     width: 100vw;
-    overflow: hidden;
 }
 
 .grayScreen{
